@@ -31,11 +31,23 @@ dependencies:
   image_picker: ^0.6.6+4
   firebase_storage: ^3.1.5
   firebase_messaging: ^6.0.15
-
+  flutter_launcher_icons: ^0.7.5
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_native_splash: ^0.1.9
 
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/flut_chat_icon.png"
+
+flutter_native_splash:
+  image: "assets/icon/flut_chat_icon.png"
+  color: "e91e63"
+  fill: false
+  android_disable_fullscreen: true
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
