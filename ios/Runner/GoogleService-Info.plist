@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>520318204477-mq2pbgn73a64oq09g44935cihi7bl2d3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.520318204477-mq2pbgn73a64oq09g44935cihi7bl2d3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-z8oinjhJnfXq1Ka03z2AHG8kl67GEf0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>520318204477</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterchatapp</string>
+	<key>PROJECT_ID</key>
+	<string>public-parking</string>
+	<key>STORAGE_BUCKET</key>
+	<string>public-parking.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:520318204477:ios:a7b4fe09d86ae4a75bc854</string>
+	<key>DATABASE_URL</key>
+	<string>https://public-parking.firebaseio.com</string>
+</dict>
+</plist>
