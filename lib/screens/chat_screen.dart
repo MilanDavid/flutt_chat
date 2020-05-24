@@ -25,6 +25,7 @@ class _ChatScreenState extends State<ChatScreen> {
       print(msg);
       return;
     });
+    fbm.subscribeToTopic('chat');
     super.initState();
   }
 
